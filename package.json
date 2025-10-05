@@ -1,0 +1,16 @@
+{
+  "name": "fohl-app",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "fohl dev",
+    "build": "fohl build",
+    "preview": "fohl preview"
+  },
+  "dependencies": {
+    "fohl": "^0.0.7",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "packageManager": "pnpm@10.18.0"
+}
