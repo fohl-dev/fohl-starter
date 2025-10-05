@@ -1,0 +1,3 @@
+{
+  "extends": "./.fohl/tsconfig.json"
+}

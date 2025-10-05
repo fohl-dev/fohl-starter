@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "biomejs.biome",
+    "usernamehw.errorlens",
+    "antfu.file-nesting",
+    "antfu.iconify",
+    "csstools.postcss",
+    "pflannery.vscode-versionlens"
+  ]
+}
