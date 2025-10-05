@@ -1,4 +1,4 @@
-export default function Page() {
+export default function App() {
   return (
     <div>
       <h1>🚀 Fohl</h1>
